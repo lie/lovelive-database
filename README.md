@@ -1,0 +1,2 @@
+# lovelive-database
+LoveLive! Database
